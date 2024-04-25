@@ -29,7 +29,7 @@ You can deploy your own bot, or use mine: [@chatgpt_karfly_bot](https://t.me/cha
 - Code highlighting
 
 
-https://dashboard.heroku.com/apps
+
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/candyop7777
